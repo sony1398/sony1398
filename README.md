@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sony1398:)
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning data structures and algorithms;)
-- 💞️ I’m looking to collaborate on creating simple projects on my own
+- 💞️ I’m looking forward to create simple projects on my own
 - 📫 How to reach me ... 
 
 <!---
